@@ -10,8 +10,8 @@ Some drones supported by this framework ARE NOT TOYS. Even operation by expert u
 
 Prerequisites
 -------------
-- MAVwork: https://github.com/uavster/mavwork
 - Atlante: https://github.com/uavster/atlante
+- MAVwork: https://github.com/uavster/mavwork
 - OpenCV
 - ncourses
 
