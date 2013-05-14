@@ -18,26 +18,26 @@ UI keys
 -------
 ESC - Quit application
 
-t - Take off
-l - Land
-h - Hover (managed by MAVwork)
-m - Start moving (moving commands only accepted when MOVE mode set)
-Space bar - Emergency stop (ONLY AVAILABLE AT SOME DRONES!! Use only if strictly necessary, as the drone will literally fall down like a stone)
-
-These keys only work after pressing 'm' once:
-Up arrow or 8 - Go forward at constant speed
-Down arrow or 2 - Go backwards at constant speed
-Left arrow or 4 - Go left at constant speed
-Right arrow or 6 - Go right at constant speed
-5 - Stay where you are
-z or 7 - Yaw left one increment
-x or 9 - Yaw right one increment
-q - Go one increment up
-a - Go one increment down
+t - Take off  
+l - Land  
+h - Hover (managed by MAVwork)  
+m - Start moving (moving commands only accepted when MOVE mode set)  
+Space bar - Emergency stop (ONLY AVAILABLE AT SOME DRONES!! Use only if strictly necessary, as the drone will literally fall down like a stone)  
+  
+These keys only work after pressing 'm' once:  
+Up arrow or 8 - Go forward at constant speed  
+Down arrow or 2 - Go backwards at constant speed  
+Left arrow or 4 - Go left at constant speed  
+Right arrow or 6 - Go right at constant speed  
+5 - Stay where you are  
+z or 7 - Yaw left one increment  
+x or 9 - Yaw right one increment  
+q - Go one increment up  
+a - Go one increment down  
 
 Typical key sequence
 --------------------
-IMPORTANT SAFETY NOTE: Before the flight, make sure that nobody is in the flight area or surroundings or that they are behind a wall or fence. Do not rely on the space bar, as it is disabled by default for some (expensive) drones. If something goes wrong press 'h' to enter hover mode and wait for the drone to become steady in air.
+**IMPORTANT SAFETY NOTE**: Before the flight, make sure that nobody is in the flight area or surroundings or that they are behind a wall or fence. Do not rely on the space bar, as it is disabled by default for some (expensive) drones. If something goes wrong press 'h' to enter hover mode and wait for the drone to become steady in air.
 
 1. Take off with 't' and wait for the drone to enter hovering mode (shown in UI)
 2. Start accepting movement commands by pressing 'm'
