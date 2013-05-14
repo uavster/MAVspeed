@@ -1,6 +1,6 @@
 MAVspeed
 ========
-This is a simple speed controller for Micro Aerial Vehicles that works on MAVwork. 
+Control your drone from the keyboard and visualize navigation and camera feedback. It works with drones supported by MAVwork. Yaw and altitude are controlled in position. Horizontal displacements are controlled in speed.
 
 SAFETY WARNING AND DISCLAIMER
 -----------------------------
