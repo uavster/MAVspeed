@@ -2,6 +2,8 @@ MAVspeed
 ========
 Control your drone from the keyboard and visualize navigation and camera feedback. It works with drones supported by MAVwork. Yaw and altitude are controlled in position. Horizontal displacements are controlled in speed.
 
+Watch it in action in the video at http://www.uavster.com/projects/MAVwork-support-for-the-LinkQuad-quadcopter
+
 SAFETY WARNING AND DISCLAIMER
 -----------------------------
 You are using this software at your onw risk. The authors decline any responsibility for personal injuries and/or property damage.
