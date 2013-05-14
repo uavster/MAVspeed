@@ -8,6 +8,17 @@ You are using this software at your onw risk. The authors decline any responsibi
 
 Some drones supported by this framework ARE NOT TOYS. Even operation by expert users might cause SERIOUS INJURIES to people around. So, please consider flying in a properly screened or isolated flight area.
 
+Prerequisites
+-------------
+- MAVwork: https://github.com/uavster/mavwork
+- Atlante: https://github.com/uavster/atlante
+- OpenCV
+- ncourses
+
+Compilation
+-----------
+Open bin/makefile and change ATLANTE\_ROOTPATH and DRONECLIENT\_ROOTPATH to point to your Atlante and MAVwork API directories, respectively.
+
 Configuration
 -------------
 The PID gains are configured for a LinkQuad. Although, they might work for other MAVs as well, it is recommended that you check them before flying. They are defined at the beginning of MyDrone.cpp with explanatory comments.
@@ -46,8 +57,3 @@ Typical key sequence
 5. Wait for the drone to stabilize while hovering
 6. Land with 'l'
 
-Prerequisites
--------------
-- MAVwork: https://github.com/uavster/mavwork
-- OpenCV
-- ncourses
