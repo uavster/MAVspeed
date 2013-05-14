@@ -1,6 +1,6 @@
 MAVspeed
 ========
-Control your drone from the keyboard and visualize navigation and camera feedback. It works with drones supported by MAVwork. Yaw and altitude are controlled in position. Horizontal displacements are controlled in speed.
+Control your drone from the keyboard and visualize navigation and camera feedback. It works on Linux with drones supported by MAVwork. Yaw and altitude are controlled in position. Horizontal displacements are controlled in speed.
 
 Watch it in action in the video at http://www.uavster.com/projects/MAVwork-support-for-the-LinkQuad-quadcopter
 
@@ -59,3 +59,7 @@ Typical key sequence
 5. Wait for the drone to stabilize while hovering
 6. Land with 'l'
 
+CONTRIBUTORS
+------------
+[Ignacio M. Bataller](https://github.com/uavster): Original project creator and maintainer  
+[Jesús Pestana](https://github.com/jespestana): Backup pilot during test flights  
