@@ -19,7 +19,7 @@ Prerequisites
 
 Compilation
 -----------
-Open bin/makefile and change ATLANTE\_ROOTPATH and DRONECLIENT\_ROOTPATH to point to your Atlante and MAVwork API directories, respectively.
+Open bin/makefile and change ATLANTE\_ROOTPATH and DRONECLIENT\_ROOTPATH to point to your Atlante and MAVwork API directories, respectively. Then, run 'make'.
 
 Configuration
 -------------
