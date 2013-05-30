@@ -59,7 +59,11 @@ Typical key sequence
 5. Wait for the drone to stabilize while hovering
 6. Land with 'l'
 
-CONTRIBUTORS
+Contact
+-------
+For suggestions, please go to http://uavster.com/contact
+
+Contributors
 ------------
 [Ignacio M. Bataller](https://github.com/uavster): Original project creator and maintainer  
 [Jesús Pestana](https://github.com/jespestana): Backup pilot during test flights  
